@@ -222,7 +222,7 @@ const Index = () => {
                   <Phone className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold">Phone</h3>
-                <p className="text-gray-300">+1 (555) 123-4567</p>
+                <p className="text-gray-300">+254 712 345 678</p>
               </div>
               
               <div className="text-center space-y-4">
