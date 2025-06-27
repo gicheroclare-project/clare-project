@@ -67,7 +67,7 @@ const Index = () => {
         <div className="container mx-auto px-6 text-center text-white relative z-10">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              Hi, I'm <span className="text-yellow-300">Alex</span>
+              Hi, I'm <span className="text-yellow-300">Clare Gichero</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90">
               Creative Developer & Designer crafting digital experiences that matter
@@ -214,7 +214,7 @@ const Index = () => {
                   <Mail className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold">Email</h3>
-                <p className="text-gray-300">alex@portfolio.com</p>
+                <p className="text-gray-300">clare@portfolio.com</p>
               </div>
               
               <div className="text-center space-y-4">
@@ -256,7 +256,7 @@ const Index = () => {
       <footer className="py-8 bg-black text-white text-center">
         <div className="container mx-auto px-6">
           <p className="text-gray-400">
-            © 2024 Alex Portfolio. Crafted with <span className="text-red-500">♥</span> and creativity.
+            © 2025 Clare Gichero Portfolio. Crafted with <span className="text-red-500">♥</span> and creativity.
           </p>
         </div>
       </footer>
